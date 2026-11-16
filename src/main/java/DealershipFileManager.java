@@ -51,8 +51,6 @@ public class DealershipFileManager {
 
         } catch (IOException e) {
             e.printStackTrace();
-        } catch (IOException e) {
-            throw new RuntimeException(e);
         }
 
         return dealership;

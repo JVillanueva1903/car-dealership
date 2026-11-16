@@ -9,7 +9,6 @@ public class Dealership {
 
     }
 }
-import java.util.ArrayList;
 
 class VehicleManager {
 
