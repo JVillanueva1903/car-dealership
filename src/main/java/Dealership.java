@@ -8,6 +8,10 @@ public class Dealership {
     public void addVehicle(Vehicle vehicle) {
 
     }
+
+    public ArrayList<Vehicle> getAllVehicles() {
+        return null;
+    }
 }
 
 class VehicleManager {
