@@ -12,6 +12,10 @@ public class Dealership {
     public ArrayList<Vehicle> getAllVehicles() {
         return null;
     }
+
+    public void removeVehicle(Vehicle vehicleToRemove) {
+
+    }
 }
 
 class VehicleManager {
