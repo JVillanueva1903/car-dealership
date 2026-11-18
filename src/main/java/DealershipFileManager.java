@@ -5,7 +5,8 @@ import java.io.IOException;
 
 public class DealershipFileManager {
     public Dealership getDealership() {
-        Dealership dealership = null;
+        Dealership dealership;
+        dealership = null;
 
         try {
             BufferedReader reader = new BufferedReader(new FileReader("inventory(1).csv"));

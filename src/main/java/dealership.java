@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
-public class Dealership {
-    public Dealership(String name, String address, String phone) {
+public class dealership {
+    public dealership(String name, String address, String phone) {
 
     }
 

@@ -88,7 +88,7 @@ public class UserInterface {
         }
     }
 
-    private void processGetByPriceRequest() {
+    public void processGetByPriceRequest() {
     }
 
     private void processGetByMakeModelRequest() {
